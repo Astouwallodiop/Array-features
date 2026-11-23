@@ -1,0 +1,11 @@
+//Prototypes
+void remplissageTableau(int[],int);
+void affichageTableau(int[],int);
+void triTableauCroissant(int[],int);
+void triTableauDecroissant(int[],int);
+void decalageGauche(int[],int,int);
+void decalageDroite(int[],int,int);
+void sommeTableau(int[],int);
+void produitTableau(int[],int);
+void inverseTableau(int[],int);
+

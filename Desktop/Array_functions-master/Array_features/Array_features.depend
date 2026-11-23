@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1769254535 source:c:\users\hp\desktop\diti3\langage c\chap7_les modules\projet1\array_features\main.c
+	"headers.h"
+
+1769253688 c:\users\hp\desktop\diti3\langage c\chap7_les modules\projet1\array_features\headers.h
+	<stdio.h>
+	"array.h"
+
+1769251052 c:\users\hp\desktop\diti3\langage c\chap7_les modules\projet1\array_features\array.h
+
+1769254971 source:c:\users\hp\desktop\diti3\langage c\chap7_les modules\projet1\array_features\array.c
+	"headers.h"
+
